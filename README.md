@@ -1,3 +1,4 @@
+```console
 ~/developer/profile
 
 ➤ Saksham Pratibhan
@@ -6,4 +7,6 @@
 ➤ Focus : Full-Stack Development • AI • Systems
 ➤ Turning ideas into code since day one
 ➤ Reach me: pratibhansaksham@gmail.com
+➤ Mission: Learn • Build • Repeat
 ➤ End response...
+```
